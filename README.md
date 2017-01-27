@@ -17,7 +17,8 @@ Labs
 * Embedded C Language
   + [06 Keypad Scanning](./06-keypad-scanning/)
   + [07 STM32 Clock &amp; Timmer](./07-clock-timmer/)
-* Perpherials: Controls &amps; Communications
+  + [08 STM32 Interrupt &amp; Exception](./08-interrupt-exception/)
+* Perpherials: Controls &amp; Communications
 
 Toolchains
 ----------
