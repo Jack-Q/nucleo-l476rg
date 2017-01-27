@@ -20,6 +20,7 @@ Labs
   + [08 STM32 Interrupt &amp; Exception](./08-interrupt-exception/)
 * Perpherials: Controls &amp; Communications
   + [09 LCD &amp; DS18B20](./09-lcd-ds18b20/)
+  + [10 UART &amp; ADC](./10-uart-adc/)
 
 Toolchains
 ----------
