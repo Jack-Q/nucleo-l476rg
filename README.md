@@ -19,6 +19,7 @@ Labs
   + [07 STM32 Clock &amp; Timmer](./07-clock-timmer/)
   + [08 STM32 Interrupt &amp; Exception](./08-interrupt-exception/)
 * Perpherials: Controls &amp; Communications
+  + [09 LCD &amp; DS18B20](./09-lcd-ds18b20/)
 
 Toolchains
 ----------
