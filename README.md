@@ -21,6 +21,7 @@ Labs
 * Perpherials: Controls &amp; Communications
   + [09 LCD &amp; DS18B20](./09-lcd-ds18b20/)
   + [10 UART &amp; ADC](./10-uart-adc/)
+  + [11 Bluetooth &amp; Infrared](./11-bluetooth-infrared/)
 
 Toolchains
 ----------
