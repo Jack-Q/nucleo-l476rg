@@ -10,6 +10,7 @@ Labs
 ----
 * Basic ARM Assembly
   + [01 Basic ARM Assembly](./01-basic-arm-assembly/)
+  + [02 Loop, logical &amp; register](./02-loop-logical-register/)
 * Embedded C Language
 * Perpherials: Controls &amps; Communications
 
