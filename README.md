@@ -11,7 +11,8 @@ Labs
 * Basic ARM Assembly
   + [01 Basic ARM Assembly](./01-basic-arm-assembly/)
   + [02 Loop, logical &amp; register](./02-loop-logical-register/)
-  + [03 Stack in Assembly](./03-stack-in-assembly)
+  + [03 Stack in Assembly](./03-stack-in-assembly/)
+  + [04 STM32 GPIO in Assembly](./04-stm32-gpio-in-assembly/)
 * Embedded C Language
 * Perpherials: Controls &amps; Communications
 
