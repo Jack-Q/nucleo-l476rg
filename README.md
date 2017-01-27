@@ -15,6 +15,7 @@ Labs
   + [04 STM32 GPIO in Assembly](./04-stm32-gpio-in-assembly/)
   + [05 MAX7219 7-Segment Display](./05-max7219-7-segment-display/)
 * Embedded C Language
+  + [06 Keypad Scanning](./06-keypad-scanning)
 * Perpherials: Controls &amps; Communications
 
 Toolchains
